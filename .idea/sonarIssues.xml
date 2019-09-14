@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
@@ -19,6 +24,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/kotlin/HelloController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/davidbaena/springtraining/topic/TopicController.kt">
           <value>
             <set />
           </value>
